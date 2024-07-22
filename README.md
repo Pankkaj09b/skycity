@@ -1,2 +1,2 @@
 # skycity
-This repository for Hotel purpose
+This repository for Restaurent purpose
